@@ -5,6 +5,13 @@ Type definition of [filesize](https://www.npmjs.com/package/filesize) does not w
 
 This is for investigating the reason.
 
+### How to test
+
+```
+npm i
+npm run build
+```
+
 ### Error
 
 ```
